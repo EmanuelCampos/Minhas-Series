@@ -1,3 +1,7 @@
+Projeto desenvolvido com ReactJs.
+
+Adicione sua séries do netflix
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
